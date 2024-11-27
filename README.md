@@ -7,7 +7,7 @@ Program sederhana ini dibuat menggunakan bahasa python Dictionary dengan fitur:
 
 Pengguna untuk mengelola data mahasiswa, termasuk menambah, mengubah, menghapus, dan menampilkan nilai mahasiswa
 ## Flowchart Program
-![Flowchart](https://github.com/Dwiokta10/Praktikum7/blob/main/flowchat%20pert%2011%20Praktikum%207.png)
+![Flowchart](https://github.com/Dwiokta10/Praktikum7/blob/main/flowchat%20Praktikum%207.png)
 # Kode Program
 ```python
 # Daftar nilai mahasiswa
